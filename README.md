@@ -1,7 +1,7 @@
 ## Olá eu sou a Sunamita Santos 
 
 - 🔭 Hoje trabalho como UX Design
-- 👩‍💻 Estudando desenvolvimento Web
+- 👩‍💻 Estudando Python
 - 💬 Contate-me no email: s.sunamita@outlook.com
 - 😄 Pronouns: ela/dela
 
